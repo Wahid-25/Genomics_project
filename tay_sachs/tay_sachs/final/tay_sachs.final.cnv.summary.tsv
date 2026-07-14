@@ -1,0 +1,2 @@
+disease	chromosome	start	end	cnv_type	AnnotSV_output	ClassifyCNV_directory	ISV_output
+tay_sachs	chr15	72340923	72376014	DEL	results/tay_sachs/cnv/tay_sachs.AnnotSV.tsv	results/tay_sachs/cnv/tay_sachs.ClassifyCNV	results/tay_sachs/cnv/tay_sachs.ISV_with_SHAP.tsv
