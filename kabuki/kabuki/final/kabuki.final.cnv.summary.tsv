@@ -1,0 +1,2 @@
+disease	chromosome	start	end	cnv_type	AnnotSV_output	ClassifyCNV_directory	ISV_output
+kabuki	chr12	49018977	49060794	DEL	results/kabuki/cnv/kabuki.AnnotSV.tsv	results/kabuki/cnv/kabuki.ClassifyCNV	results/kabuki/cnv/kabuki.ISV_with_SHAP.tsv
