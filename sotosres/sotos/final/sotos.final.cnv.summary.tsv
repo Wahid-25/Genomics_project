@@ -1,0 +1,11 @@
+disease	chromosome	start	end	cnv_type	AnnotSV_output	ClassifyCNV_directory	ISV_output
+sotos	chr11	102000000	102150000	DEL	results/sotos/cnv/sotos.AnnotSV.tsv	results/sotos/cnv/sotos.ClassifyCNV	results/sotos/cnv/sotos.ISV_with_SHAP.tsv
+sotos	chr5	90300000	90410000	DUP	results/sotos/cnv/sotos.AnnotSV.tsv	results/sotos/cnv/sotos.ClassifyCNV	results/sotos/cnv/sotos.ISV_with_SHAP.tsv
+sotos	chr1	50700000	50770000	DUP	results/sotos/cnv/sotos.AnnotSV.tsv	results/sotos/cnv/sotos.ClassifyCNV	results/sotos/cnv/sotos.ISV_with_SHAP.tsv
+sotos	chr18	35500000	35640000	DEL	results/sotos/cnv/sotos.AnnotSV.tsv	results/sotos/cnv/sotos.ClassifyCNV	results/sotos/cnv/sotos.ISV_with_SHAP.tsv
+sotos	chr5	177131797	177300213	DEL	results/sotos/cnv/sotos.AnnotSV.tsv	results/sotos/cnv/sotos.ClassifyCNV	results/sotos/cnv/sotos.ISV_with_SHAP.tsv
+sotos	chr8	25100000	25210000	DUP	results/sotos/cnv/sotos.AnnotSV.tsv	results/sotos/cnv/sotos.ClassifyCNV	results/sotos/cnv/sotos.ISV_with_SHAP.tsv
+sotos	chr21	29100000	29180000	DUP	results/sotos/cnv/sotos.AnnotSV.tsv	results/sotos/cnv/sotos.ClassifyCNV	results/sotos/cnv/sotos.ISV_with_SHAP.tsv
+sotos	chr6	42000000	42060000	DEL	results/sotos/cnv/sotos.AnnotSV.tsv	results/sotos/cnv/sotos.ClassifyCNV	results/sotos/cnv/sotos.ISV_with_SHAP.tsv
+sotos	chr14	60900000	60990000	DUP	results/sotos/cnv/sotos.AnnotSV.tsv	results/sotos/cnv/sotos.ClassifyCNV	results/sotos/cnv/sotos.ISV_with_SHAP.tsv
+sotos	chr3	121100000	121180000	DEL	results/sotos/cnv/sotos.AnnotSV.tsv	results/sotos/cnv/sotos.ClassifyCNV	results/sotos/cnv/sotos.ISV_with_SHAP.tsv
