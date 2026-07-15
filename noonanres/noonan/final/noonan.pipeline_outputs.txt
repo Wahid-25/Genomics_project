@@ -1,0 +1,15 @@
+Disease: noonan
+Assembly: GRCh38
+
+Input SNV VCF: /home/abc/rare_disease_project/input/snv/synthetic_noonan_small_variants_GRCh38_unannotated.vcf
+Input CNV BED: /home/abc/rare_disease_project/input/cnv/synthetic_noonan_cnv_GRCh38_unannotated.bed
+
+Final annotated SNV VCF: /home/abc/rare_disease_project/results/noonan/final/noonan.final.small_variants.annotated.vcf.gz
+Final annotated SNV index: /home/abc/rare_disease_project/results/noonan/final/noonan.final.small_variants.annotated.vcf.gz.tbi
+
+AnnotSV output: /home/abc/rare_disease_project/results/noonan/cnv/noonan.AnnotSV.tsv
+ClassifyCNV output directory: /home/abc/rare_disease_project/results/noonan/cnv/noonan.ClassifyCNV
+ISV-CNV output: /home/abc/rare_disease_project/results/noonan/cnv/noonan.ISV_with_SHAP.tsv
+Final CNV summary: /home/abc/rare_disease_project/results/noonan/final/noonan.final.cnv.summary.tsv
+
+Pipeline log: /home/abc/rare_disease_project/results/noonan/logs/noonan.pipeline.log

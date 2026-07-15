@@ -1,0 +1,11 @@
+disease	chromosome	start	end	cnv_type	AnnotSV_output	ClassifyCNV_directory	ISV_output
+noonan	chr4	56300000	56362000	DEL	results/noonan/cnv/noonan.AnnotSV.tsv	results/noonan/cnv/noonan.ClassifyCNV	results/noonan/cnv/noonan.ISV_with_SHAP.tsv
+noonan	chr12	68000000	68110000	DEL	results/noonan/cnv/noonan.AnnotSV.tsv	results/noonan/cnv/noonan.ClassifyCNV	results/noonan/cnv/noonan.ISV_with_SHAP.tsv
+noonan	chr17	18300000	18385000	DUP	results/noonan/cnv/noonan.AnnotSV.tsv	results/noonan/cnv/noonan.ClassifyCNV	results/noonan/cnv/noonan.ISV_with_SHAP.tsv
+noonan	chr1	164300000	164390000	DEL	results/noonan/cnv/noonan.AnnotSV.tsv	results/noonan/cnv/noonan.ClassifyCNV	results/noonan/cnv/noonan.ISV_with_SHAP.tsv
+noonan	chr12	112418946	112509918	DUP	results/noonan/cnv/noonan.AnnotSV.tsv	results/noonan/cnv/noonan.ClassifyCNV	results/noonan/cnv/noonan.ISV_with_SHAP.tsv
+noonan	chr22	32100000	32160000	DEL	results/noonan/cnv/noonan.AnnotSV.tsv	results/noonan/cnv/noonan.ClassifyCNV	results/noonan/cnv/noonan.ISV_with_SHAP.tsv
+noonan	chr8	90100000	90225000	DEL	results/noonan/cnv/noonan.AnnotSV.tsv	results/noonan/cnv/noonan.ClassifyCNV	results/noonan/cnv/noonan.ISV_with_SHAP.tsv
+noonan	chr2	224100000	224260000	DUP	results/noonan/cnv/noonan.AnnotSV.tsv	results/noonan/cnv/noonan.ClassifyCNV	results/noonan/cnv/noonan.ISV_with_SHAP.tsv
+noonan	chr10	35400000	35470000	DUP	results/noonan/cnv/noonan.AnnotSV.tsv	results/noonan/cnv/noonan.ClassifyCNV	results/noonan/cnv/noonan.ISV_with_SHAP.tsv
+noonan	chr13	72800000	72940000	DEL	results/noonan/cnv/noonan.AnnotSV.tsv	results/noonan/cnv/noonan.ClassifyCNV	results/noonan/cnv/noonan.ISV_with_SHAP.tsv
