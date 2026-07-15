@@ -1,3 +1,0 @@
-##INFO=<ID=CLINGEN_REGION,Number=.,Type=String,Description="ClinGen dosage sensitivity region or gene">
-##INFO=<ID=CLINGEN_HAPLO,Number=.,Type=String,Description="ClinGen haploinsufficiency score">
-##INFO=<ID=CLINGEN_TRIPLO,Number=.,Type=String,Description="ClinGen triplosensitivity score">
