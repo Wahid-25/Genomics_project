@@ -1,0 +1,15 @@
+Disease: kabuki
+Assembly: GRCh38
+
+Input SNV VCF: /home/abc/rare_disease_project/input/snv/synthetic_kabuki_small_variants_GRCh38_unannotated.vcf
+Input CNV BED: /home/abc/rare_disease_project/input/cnv/synthetic_kabuki_cnv_GRCh38_unannotated.bed
+
+Final annotated SNV VCF: /home/abc/rare_disease_project/results/kabuki/final/kabuki.final.small_variants.annotated.vcf.gz
+Final annotated SNV index: /home/abc/rare_disease_project/results/kabuki/final/kabuki.final.small_variants.annotated.vcf.gz.tbi
+
+AnnotSV output: /home/abc/rare_disease_project/results/kabuki/cnv/kabuki.AnnotSV.tsv
+ClassifyCNV output directory: /home/abc/rare_disease_project/results/kabuki/cnv/kabuki.ClassifyCNV
+ISV-CNV output: /home/abc/rare_disease_project/results/kabuki/cnv/kabuki.ISV_with_SHAP.tsv
+Final CNV summary: /home/abc/rare_disease_project/results/kabuki/final/kabuki.final.cnv.summary.tsv
+
+Pipeline log: /home/abc/rare_disease_project/results/kabuki/logs/kabuki.pipeline.log

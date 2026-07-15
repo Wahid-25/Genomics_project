@@ -1,0 +1,11 @@
+disease	chromosome	start	end	cnv_type	AnnotSV_output	ClassifyCNV_directory	ISV_output
+kabuki	chr7	142100000	142260000	DUP	results/kabuki/cnv/kabuki.AnnotSV.tsv	results/kabuki/cnv/kabuki.ClassifyCNV	results/kabuki/cnv/kabuki.ISV_with_SHAP.tsv
+kabuki	chr2	101340000	101415000	DEL	results/kabuki/cnv/kabuki.AnnotSV.tsv	results/kabuki/cnv/kabuki.ClassifyCNV	results/kabuki/cnv/kabuki.ISV_with_SHAP.tsv
+kabuki	chr12	49018977	49060794	DEL	results/kabuki/cnv/kabuki.AnnotSV.tsv	results/kabuki/cnv/kabuki.ClassifyCNV	results/kabuki/cnv/kabuki.ISV_with_SHAP.tsv
+kabuki	chr16	48200000	48275000	DEL	results/kabuki/cnv/kabuki.AnnotSV.tsv	results/kabuki/cnv/kabuki.ClassifyCNV	results/kabuki/cnv/kabuki.ISV_with_SHAP.tsv
+kabuki	chr1	21650000	21715000	DUP	results/kabuki/cnv/kabuki.AnnotSV.tsv	results/kabuki/cnv/kabuki.ClassifyCNV	results/kabuki/cnv/kabuki.ISV_with_SHAP.tsv
+kabuki	chr20	12300000	12440000	DUP	results/kabuki/cnv/kabuki.AnnotSV.tsv	results/kabuki/cnv/kabuki.ClassifyCNV	results/kabuki/cnv/kabuki.ISV_with_SHAP.tsv
+kabuki	chr9	30850000	30930000	DEL	results/kabuki/cnv/kabuki.AnnotSV.tsv	results/kabuki/cnv/kabuki.ClassifyCNV	results/kabuki/cnv/kabuki.ISV_with_SHAP.tsv
+kabuki	chr11	75500000	75610000	DUP	results/kabuki/cnv/kabuki.AnnotSV.tsv	results/kabuki/cnv/kabuki.ClassifyCNV	results/kabuki/cnv/kabuki.ISV_with_SHAP.tsv
+kabuki	chr3	67200000	67248000	DUP	results/kabuki/cnv/kabuki.AnnotSV.tsv	results/kabuki/cnv/kabuki.ClassifyCNV	results/kabuki/cnv/kabuki.ISV_with_SHAP.tsv
+kabuki	chr5	8800000	8865000	DEL	results/kabuki/cnv/kabuki.AnnotSV.tsv	results/kabuki/cnv/kabuki.ClassifyCNV	results/kabuki/cnv/kabuki.ISV_with_SHAP.tsv
